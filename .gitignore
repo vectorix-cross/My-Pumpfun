@@ -1,0 +1,12 @@
+node_modules/
+.next/
+target/
+.anchor/
+test-ledger/
+.env
+.env.local
+.env.*.local
+id.json
+*.pem
+.DS_Store
+frontend/public/libraries/
